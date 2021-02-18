@@ -1,5 +1,0 @@
-python3 create_trainset_redd.py --data_dir '../../../../Mydata/low_freq' --appliance_name 'microwave' --aggregate_mean 500 --aggregate_std 800 --save_path '../../../../Mydata/low_freq_data'
-
-python3 create_trainset_redd.py --data_dir '../../../../Mydata/low_freq' --appliance_name 'fridge' --save_path '../../../../Mydata/low_freq_data'
-
-python3 create_trainset_redd.py --data_dir '../../../../Mydata/low_freq' --appliance_name 'washing machine' --save_path '../../../../Mydata/low_freq_data'
